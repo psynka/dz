@@ -1,5 +1,6 @@
 
 
+
 function compose (...args)
 {
     args = args.reverse()
